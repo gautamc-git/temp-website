@@ -41,6 +41,8 @@ nav ul li a:hover {
 .container {
   padding: 100px 20px 20px 20px;
   text-align: center;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .home-container {
@@ -81,6 +83,7 @@ nav ul li a:hover {
   color: white;
   text-decoration: none;
   border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 
 .buttons a:last-child {
