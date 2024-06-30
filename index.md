@@ -18,7 +18,7 @@ title: "Home"
     <div class="right">
       <h2>About Me</h2>
       <p>I am a second-year Ph.D student in the Computer Science Theory Group at UT Austin. I am fortunate to be working with Adam Klivans and David Zuckerman. I am mainly interested in Learning Theory and Complexity Theory. </p>
-      <p> I received a B.Tech+M.Tech from IIT Madras in 2022 where I was advised by Jayalal Sarma</p>
+      <p> I received a B.Tech+M.Tech from IIT Madras in 2022 where I was advised by Jayalal Sarma.</p>
     </div>
   </div>
 </section>
