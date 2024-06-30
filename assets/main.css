@@ -10,6 +10,22 @@ p {
   font-family: 'Roboto', 'Helvetica', Arial, sans-serif; /* Modern font stack */
   line-height: 1.6; /* Improved readability with increased line height */
 }
+
+/* Example of applying Roboto to headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', 'Helvetica', Arial, sans-serif;
+  font-weight: bold; /* Adjust font weight as needed */
+  margin-top: 20px; /* Optional: Adjust spacing above headers */
+  margin-bottom: 10px; /* Optional: Adjust spacing below headers */
+}
+
+/* Example of applying Roboto to links */
+a {
+  font-family: 'Roboto', 'Helvetica', Arial, sans-serif;
+  color: #0073b1; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
 header {
   background-color: #333;
   color: white;
@@ -60,7 +76,10 @@ nav ul li a:hover {
 
 .left {
   flex: 1;
-  text-align: left;
+  text-align: center; /* Center content inside the left container */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Align items to the center */
 }
 
 .right {
@@ -70,9 +89,9 @@ nav ul li a:hover {
 
 .profile img {
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  margin-right: 20px;
+  width: 150px; /* Increase size for better visibility */
+  height: 150px; /* Increase size for better visibility */
+  margin-bottom: 20px;
 }
 
 .profile h1 {
