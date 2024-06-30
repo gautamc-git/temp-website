@@ -12,6 +12,7 @@ title: "Home"
       <div class="buttons">
         <a href="https://www.linkedin.com/in/gautam-chandrasekaran-5139a1188/" target="_blank">LinkedIn</a>
         <a href="https://scholar.google.com/citations?user=-CNU0tAAAAAJ&hl=en" target="_blank">Google Scholar</a>
+        <!--<a href="https://scholar.google.com/citations?user=-CNU0tAAAAAJ&hl=en" target="_blank">CV</a>!-->
       </div>
     </div>
     <div class="right">
