@@ -6,7 +6,7 @@ title: "Home"
 <section id="home">
   <div class="container home-container">
     <div class="left">
-      <img src="{{ '/assets/website_pic.jpg' | relative_url }}" alt="Profile Picture" style="max-width: 20%; height: auto">
+      <img src="{{ '/assets/website_pic.jpg' | relative_url }}" alt="Profile Picture" style="max-width: 50%; height: auto">
       <h1>Gautam Chandrasekaran</h1>
       <p>gautamc at cs dot utexas dot edu</p>
       <div class="buttons">
