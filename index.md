@@ -38,7 +38,7 @@ title: "Home"
       <h3>Smoothed Analysis for Learning Concepts with Low Intrinsic Dimension</h3>
       <p>Gautam Chandrasekaran, Adam Klivans, Vasilis Kontonis, Raghu Meka, Konstantinos Stavropoulos</p>
       <p><em>COLT 2024</em></p>
-      <!--<a href="link-to-conference-paper" target="_blank">Read More</a>-->  
+      <a href="http://arxiv.org/abs/2407.00966" target="_blank">arXiv</a>  
     </div>
     <!-- ONLINE MDP!-->
     <div class="publication-card">
