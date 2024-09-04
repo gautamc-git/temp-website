@@ -25,7 +25,7 @@ title: "Home"
 
 <section id="publications">
   <div class="container publications-container">
-    <h2>Publications</h2>
+    <h2>Publications (authors in alphabetical order)</h2>
     <!-- TDS LEARNING!-->
     <div class="publication-card">
       <h3>Efficient Discrepancy Testing for Learning with Distribution Shift</h3>
