@@ -29,14 +29,14 @@ title: "Home"
     <!-- TDS LEARNING!-->
     <div class="publication-card">
       <h3>Efficient Discrepancy Testing for Learning with Distribution Shift</h3>
-      <p>Gautam Chandrasekaran, Adam Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan</p>
+      <p><b>Gautam Chandrasekaran</b>, Adam Klivans, Vasilis Kontonis, Konstantinos Stavropoulos, Arsen Vasilyan</p>
       <p><em>Submitted 2024</em></p>
       <a href="https://arxiv.org/abs/2406.09373" target="_self">arXiv</a>
     </div>
     <!-- SMOOTH OPT -->
     <div class="publication-card">
       <h3>Smoothed Analysis for Learning Concepts with Low Intrinsic Dimension</h3>
-      <p>Gautam Chandrasekaran, Adam Klivans, Vasilis Kontonis, Raghu Meka, Konstantinos Stavropoulos</p>
+      <p><b>Gautam Chandrasekaran</b>, Adam Klivans, Vasilis Kontonis, Raghu Meka, Konstantinos Stavropoulos</p>
       <p><em>COLT 2024</em></p>
       <p><b>Best Paper Award</b></p>
       <a href="http://arxiv.org/abs/2407.00966" target="_blank">arXiv</a>  
@@ -44,7 +44,7 @@ title: "Home"
     <!-- ONLINE MDP!-->
     <div class="publication-card">
       <h3>Learning in online MDPs: is there a price for handling the communicating case?</h3>
-      <p>Gautam Chandrasekaran, Ambuj Tewari</p>
+      <p><b>Gautam Chandrasekaran</b>, Ambuj Tewari</p>
       <p><em>UAI 2023</em></p>
       <a href="https://arxiv.org/abs/2111.02024" target="_self">arXiv</a>  
     </div>
