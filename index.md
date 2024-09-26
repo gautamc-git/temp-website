@@ -25,12 +25,12 @@ title: "Home"
 
 <section id="publications">
   <div class="container publications-container">
-    <!-- MARGIN HALFSPACES-->
+      <h2>Publications (authors in alphabetical order)</h2>
+      <!-- MARGIN HALFSPACES-->
      <div class="publication-card">
       <h3>Learning Noisy Halfspaces with a Margin: Massart is No Harder than Random</h3>
       <p><b>Gautam Chandrasekaran</b>, Vasilis Kontonis, Konstantinos Stavropoulos, Kevin Tian</p>
       <p><em>NeurIPS 2024 (Spotlight)</em></p>
-    <h2>Publications (authors in alphabetical order)</h2>
     <!-- TDS LEARNING!-->
     <div class="publication-card">
       <h3>Efficient Discrepancy Testing for Learning with Distribution Shift</h3>
