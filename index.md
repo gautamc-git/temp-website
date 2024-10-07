@@ -26,12 +26,6 @@ title: "Home"
 <section id="publications">
   <div class="container publications-container">
       <h2>Publications (authors in alphabetical order)</h2>
-        <!-- TDS Neural Networks-->
-     <div class="publication-card">
-      <h3>Learning Neural Networks with Distribution Shift: Efficiently Certifiable Guarantees</h3>
-      <p><b>Gautam Chandrasekaran</b>, Adam Klivans, Lin Lin Lee, Konstantinos Stavropoulos</p>
-      <p><em>In Submission</em></p>
-     </div>
       <!-- MARGIN HALFSPACES-->
      <div class="publication-card">
       <h3>Learning Noisy Halfspaces with a Margin: Massart is No Harder than Random</h3>
