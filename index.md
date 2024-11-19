@@ -26,6 +26,13 @@ title: "Home"
 <section id="publications">
   <div class="container publications-container">
       <h2>Publications (authors in alphabetical order)</h2>
+    <!--SK MODEL-->
+         <div class="publication-card">
+      <h3>Learning the Sherrington-Kirkpatrick Model
+Even at Low Temperature</h3>
+      <p><b>Gautam Chandrasekaran</b>, Adam Klivans</p>
+      <p><em>In Submission</em></p>
+         </div>
       <!-- MARGIN HALFSPACES-->
      <div class="publication-card">
       <h3>Learning Noisy Halfspaces with a Margin: Massart is No Harder than Random</h3>
